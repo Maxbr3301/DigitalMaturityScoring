@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Zu grosse Dateien (>100MB, GitHub-Limit)
+*.joblib
+startdfV1.csv
+df-zwischensaveV1.csv
+df-zwischensaveV20250506.csv
+df_results_abstract_to_references.csv
+
+# OneDrive cloud-only Platzhalter (nicht lokal verfugbar)
+Paper #4/MSCI_Consumer.csv
+processed_data.xlsx
+merged.csv
+Mappe1.xlsx
+PBV_Framework_structure.xlsx
+Visana_DMA_Scoring.xlsx
+export_max_volume.xlsx
+export_df_ML.csv
+PBV_Layer_1.xlsx
